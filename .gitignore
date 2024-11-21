@@ -1,0 +1,6 @@
+.venv
+.ropeproject
+.mypy_cache
+.github
+credentials.json
+**/__pycache__/
